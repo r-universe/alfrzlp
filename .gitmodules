@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "sae.projection"]
+	path = sae.projection
+	url = https://github.com/alfrzlp/sae.projection
 [submodule "saeHB.unit"]
 	path = saeHB.unit
 	url = https://github.com/alfrzlp/saehb.unit
